@@ -29,10 +29,7 @@ After this course you should be able to:
 
 ## Getting materials
 
-Go to the [source repo](https://github.com/rstudio-education/advanced-shiny-az) and follow one of the options below:
-
-- OPTION 1 - Download contents of the repo
-- OPTION 2 - Clone (or fork and clone) repo
+All course materials can be found at [rstd.io/adv-shiny-az](https://rstd.io/adv-shiny-az)
 
 ## Schedule
 
