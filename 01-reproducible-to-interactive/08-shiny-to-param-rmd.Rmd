@@ -1,0 +1,20 @@
+---
+output: html_document
+params:
+  am:
+    value: 0
+    choices: !r unique(mtcars$am)
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+
+am_mean <- mtcars %>% 
+      filter(am == params$am) %>% 
+      summarise(mean(mpg)) %>% 
+      pull() %>%
+      round(2)
+am_character <- ifelse(params$am == 0, "automatic", "manual")
+```
+
+Average mileage of `r am_character` cars is `r am_mean` miles/gallon.
