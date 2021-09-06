@@ -36,24 +36,34 @@ Go to the [source repo](https://github.com/rstudio-education/advanced-shiny-az) 
 
 ## Schedule
 
+Times are shown in ET.
+
 ### Day 1 - 7 September 2021
 
 Focus: Reproducibility and building user interfaces
 
-- 09:00 - 09:10 [Welcome](https://rstudio-education.github.io/advanced-shiny-sib/00-welcome/slides/00-welcome.pdf)
-- 09:10 - 10:00 [From reproducibility to interactivity](https://rstudio-education.github.io/advanced-shiny-sib/01-reproducible-to-interactive/slides/01-reproducible-to-interactive.pdf)
-- 10:00 - 10:30 [Building user interfaces](https://rstudio-education.github.io/advanced-shiny-sib/02-building-ui/slides/02-building-ui.pdf)
-- 10:30 - 10:45 Coffee break
-- 10:45 - 12:00 [Building user interfaces (cont.)](https://rstudio-education.github.io/advanced-shiny-sib/02-building-ui/slides/02-building-ui.pdf)
+- 09:30 - 09:45 [Welcome]()
+- 09:45 - 10:30 [From reproducibility to interactivity]()
+- 10:30 - 10:40 Break
+- 10:40 - 11:40 [Building user interfaces]()
+- 11:40 - 11:50 Break
+- 11:50 - 12:30 [Reactive programming]()
 
 ### Day 2 - 9 September 2021
 
 Focus: Reactive programming, modules, and troubleshooting
 
-- 13:00 - 14:30 [Reactive programming](https://rstudio-education.github.io/advanced-shiny-sib/03-react-prog/slides/03-react-prog.pdf)
-- 14:30 - 15:30 [Modules](https://rstudio-education.github.io/advanced-shiny-sib/04-modules/slides/04-modules.pdf)
+- 09:30 - 09:45 Recap + review
+- 09:45 - 10:30 [Reactive programming (cont.)]()
+- 10:30 - 10:40 Break
+- 10:40 - 11:25 [Modules]()
+- 11:40 - 11:50 Break
+- 11:50 - 12:30 [Troubleshooting]()
+
+- 13:00 - 14:30 Reactive programming
+- 14:30 - 15:30 Modules
 - 15:30 - 15:45 Coffee break
-- 15:45 - 17:00 [Troubleshooting](https://rstudio-education.github.io/advanced-shiny-sib/05-troubleshooting/slides/05-troubleshooting.pdf)
+- 15:45 - 17:00 Troubleshooting
 
 ## Packages
 
