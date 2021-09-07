@@ -64,6 +64,7 @@ Focus: Reactive programming, modules, and troubleshooting
 
 ### From CRAN:
 
+- bslib
 - cranlogs
 - devtools
 - DT
@@ -82,6 +83,7 @@ Focus: Reactive programming, modules, and troubleshooting
 - shinythemes
 - shinytoastr
 - testthat
+- thematic
 - tidyverse
 
 ### From GitHub:

@@ -1,12 +1,11 @@
 # Load packages ----------------------------------------------------------------
 library(shiny)
 library(ggplot2)
-library(shinythemes)
+library(bslib)
 
 # Define UI --------------------------------------------------------------------
-ui <- fluidPage(theme = shinytheme("spacelab"),
+ui <- fluidPage(theme = bs_theme(bootswatch = "slate"),
   titlePanel("Linked brushing"),
-  #shinythemes::themeSelector(),
   fluidRow(
     column(5,
       plotOutput("plot", brush = "brush")
@@ -23,7 +22,7 @@ server <- function(input, output, session) {
     ggplot(mtcars, aes(x = hp, y = mpg)) +
       geom_point()
   })
-  
+
   output$detail <- renderTable({
     brushed <- brushedPoints(mtcars, input$brush)
     validate(need(nrow(brushed) > 0, "Click and drag to select data points"))

@@ -1,6 +1,7 @@
 # Load packages ----------------------------------------------------------------
 library(shiny)
 library(dplyr)
+library(tibble)
 
 # Define UI --------------------------------------------------------------------
 ui <- fluidPage(
@@ -14,14 +15,14 @@ ui <- fluidPage(
 
 # Define server ----------------------------------------------------------------
 server <- function(input, output, session) {
-  
+
   output$table_header <- renderText({
     am_character <- ifelse(input$am == 0, "Automatic", "Manual")
     paste(am_character, "cars in the mtcars dataset:")
   })
-  
+
   output$table <- DT::renderDataTable({
-    mtcars %>% 
+    mtcars %>%
       rownames_to_column(var = "make_model") %>%
       filter(am == input$am)
   })
