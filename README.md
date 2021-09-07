@@ -36,7 +36,8 @@ You have two options for following along with the exercises:
 
 <details>
 <summary>Packages</summary>
-```r
+
+<code>
 install.packages("bslib")
 install.packages("cranlogs")
 install.packages("devtools")
@@ -60,7 +61,8 @@ install.packages("thematic")
 install.packages("tidyverse")
 devtools::install_github("ThinkR-open/shinysnippets")
 devtools::install_github("ropenhealth/openfda")
-```
+</code>
+
 </details>
 
 ## Schedule
