@@ -1,7 +1,5 @@
 # advanced-shiny-az
 
-Materials for the "Advanced Shiny" course for Astra Zeneca.
-
 ## Overview
 
 Shiny is the leading R package for developing interactive web apps. These give your clients, users, or students the power and sophistication of R with a friendly, no-code interface custom designed to your purpose. This workshop will begin with an overview of interactivity options in R (R Markdown documents with Shiny components, parameterized reports, and dashboards), will explore features of reactive programming, building complex apps with modules, and will wrap up with a session on troubleshooting Shiny apps.
