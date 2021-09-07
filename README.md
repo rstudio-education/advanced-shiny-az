@@ -67,11 +67,13 @@ Focus: Reactive programming, modules, and troubleshooting
 - cranlogs
 - devtools
 - DT
+- golem
 - flexdashboard
 - gapminder
 - jsonlite
 - lubridate
 - miniUI
+- openintro
 - shiny
 - shinyBS
 - shinydashboard
@@ -87,5 +89,4 @@ Focus: Reactive programming, modules, and troubleshooting
 We won't spend a huge amount of time on these, but I'll show a couple examples or use a dataset or two from them
 
 - shinysnippets - https://github.com/ThinkR-open/shinysnippets
-- golem - https://github.com/ThinkR-open/golem
-- openintro - https://github.com/OpenIntroStat/openintro-r-package
+- openfda - https://github.com/ropenhealth/openfda
