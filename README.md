@@ -34,10 +34,7 @@ You have two options for following along with the exercises:
 - On RStudio Cloud (strongly recommended) - Go to [rstd.io/adv-shiny-az-cloud](https://rstd.io/adv-shiny-az-cloud), log in, and join the workspace. All packages you will need are already pre-installed in the projects in this workspace and the files needed for exercises have already been uploaded there as well.
 - Locally - Click on [View the Project on GitHub](https://github.com/rstudio-education/advanced-shiny-az) and either download the contents of the repo or fork and clone it. If you choose this route, start working on the exercises by clicking on the `advanced-shiny-az.Rproj` file to launch the RStudio session. Then, install the latest versions of all packages listed below using the code provided.
 
-<details>
-<summary>Packages</summary>
-
-<code>
+```r
 install.packages("bslib")
 install.packages("cranlogs")
 install.packages("devtools")
@@ -61,9 +58,7 @@ install.packages("thematic")
 install.packages("tidyverse")
 devtools::install_github("ThinkR-open/shinysnippets")
 devtools::install_github("ropenhealth/openfda")
-</code>
-
-</details>
+```
 
 ## Schedule
 
@@ -80,36 +75,3 @@ Each day we'll take two 10-minute breaks one hour and two hours into the worksho
 - [Reactive programming](https://rstudio-education.github.io/advanced-shiny-az/03-react-prog/03-react-prog.pdf)
 - Modules
 - Troubleshooting
-
-## Packages
-
-### From CRAN:
-
-- bslib
-- cranlogs
-- devtools
-- DT
-- golem
-- flexdashboard
-- gapminder
-- jsonlite
-- lubridate
-- miniUI
-- openintro
-- shiny
-- shinyBS
-- shinydashboard
-- shinyjs
-- shinytest
-- shinythemes
-- shinytoastr
-- testthat
-- thematic
-- tidyverse
-
-### From GitHub:
-
-We won't spend a huge amount of time on these, but I'll show a couple examples or use a dataset or two from them
-
-- shinysnippets - https://github.com/ThinkR-open/shinysnippets
-- openfda - https://github.com/ropenhealth/openfda
