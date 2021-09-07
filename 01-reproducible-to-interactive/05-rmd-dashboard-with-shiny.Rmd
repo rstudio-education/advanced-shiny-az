@@ -121,7 +121,7 @@ renderPlot({
       y = NULL
     ) +
     theme_minimal() + 
-    guides(fill = FALSE) + 
+    guides(fill = "none") + 
     scale_fill_manual(values = c("#d54a30","#4c83b6"))
 })
 ```
