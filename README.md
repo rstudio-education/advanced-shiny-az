@@ -25,14 +25,43 @@ After this course you should be able to:
 - Enhance a complex Shiny app by breaking it into modules
 - Employ a principled approach to debugging Shiny apps
 
-## Getting materials
+## Materials
 
 All course materials can be found at [rstd.io/adv-shiny-az](https://rstd.io/adv-shiny-az).
 
 You have two options for following along with the exercises:
 
-- On RStudio Cloud (strongly recommended) - Go to [LINK](), log in, and join the workspace.
-- Locally - Click on [View the Project on GitHub](https://github.com/rstudio-education/advanced-shiny-az) and either download the contents of the repo or fork and clone it. If you choose this route, start working on the exercises by clicking on the `advanced-shiny-az.Rproj` file to launch the RStudio session and make sure the packages listed below are all installed.
+- On RStudio Cloud (strongly recommended) - Go to [rstd.io/adv-shiny-az-cloud](https://rstd.io/adv-shiny-az-cloud), log in, and join the workspace. All packages you will need are already pre-installed in the projects in this workspace and the files needed for exercises have already been uploaded there as well.
+- Locally - Click on [View the Project on GitHub](https://github.com/rstudio-education/advanced-shiny-az) and either download the contents of the repo or fork and clone it. If you choose this route, start working on the exercises by clicking on the `advanced-shiny-az.Rproj` file to launch the RStudio session. Then, install the latest versions of all packages listed below using the code provided.
+
+<details>
+<summary>Packages</summary>
+```r
+install.packages("bslib")
+install.packages("cranlogs")
+install.packages("devtools")
+install.packages("DT")
+install.packages("golem")
+install.packages("flexdashboard")
+install.packages("gapminder")
+install.packages("jsonlite")
+install.packages("lubridate")
+install.packages("miniUI")
+install.packages("openintro")
+install.packages("shiny")
+install.packages("shinyBS")
+install.packages("shinydashboard")
+install.packages("shinyjs")
+install.packages("shinytest")
+install.packages("shinythemes")
+install.packages("shinytoastr")
+install.packages("testthat")
+install.packages("thematic")
+install.packages("tidyverse")
+devtools::install_github("ThinkR-open/shinysnippets")
+devtools::install_github("ropenhealth/openfda")
+```
+</details>
 
 ## Schedule
 
