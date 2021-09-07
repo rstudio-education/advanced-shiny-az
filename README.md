@@ -42,7 +42,7 @@ Times are shown in ET.
 
 Focus: Reproducibility and building user interfaces
 
-- 09:30 - 09:45 [Welcome]()
+- 09:30 - 09:45 [Welcome](https://rstudio-education.github.io/advanced-shiny-az/00-welcome/00-welcome.pdf)
 - 09:45 - 10:30 [From reproducibility to interactivity]()
 - 10:30 - 10:40 Break
 - 10:40 - 11:40 [Building user interfaces]()
