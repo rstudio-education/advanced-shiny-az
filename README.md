@@ -29,7 +29,7 @@ After this course you should be able to:
 
 ## Getting materials
 
-All course materials can be found at [rstd.io/adv-shiny-az](https://rstd.io/adv-shiny-az)
+All course materials can be found at [rstd.io/adv-shiny-az](https://rstd.io/adv-shiny-az).
 
 ## Schedule
 
