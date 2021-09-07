@@ -51,16 +51,11 @@ Focus: Reproducibility and building user interfaces
 Focus: Reactive programming, modules, and troubleshooting
 
 - 09:30 - 09:45 Recap + review
-- 09:45 - 10:30 [Reactive programming (cont.)]()
+- 09:45 - 10:30 Reactive programming (cont.)
 - 10:30 - 10:40 Break
-- 10:40 - 11:25 [Modules]()
+- 10:40 - 11:25 Modules
 - 11:40 - 11:50 Break
-- 11:50 - 12:30 [Troubleshooting]()
-
-- 13:00 - 14:30 Reactive programming
-- 14:30 - 15:30 Modules
-- 15:30 - 15:45 Coffee break
-- 15:45 - 17:00 Troubleshooting
+- 11:50 - 12:30 Troubleshooting
 
 ## Packages
 
