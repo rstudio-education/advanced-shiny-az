@@ -31,6 +31,11 @@ After this course you should be able to:
 
 All course materials can be found at [rstd.io/adv-shiny-az](https://rstd.io/adv-shiny-az).
 
+You have two options for following along with the exercises:
+
+- On RStudio Cloud (strongly recommended) - Go to [LINK](), log in, and join the workspace.
+- Locally - Click on [View the Project on GitHub](https://github.com/rstudio-education/advanced-shiny-az) and either download the contents of the repo or fork and clone it. If you choose this route, start working on the exercises by clicking on the `advanced-shiny-az.Rproj` file to launch the RStudio session and make sure the packages listed below are all installed.
+
 ## Schedule
 
 Times are shown in ET.
