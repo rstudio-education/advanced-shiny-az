@@ -15,4 +15,4 @@ am_mean <- mtcars %>%
 am_character <- ifelse(params$am == 0, "automatic", "manual")
 ```
 
-Average mileage of `r am_character` cars is `r am_mean` miles/gallon.
+Average mileage of `r ___` cars is `r ___` miles/gallon.
