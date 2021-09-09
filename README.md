@@ -74,4 +74,4 @@ Each day we'll take two 10-minute breaks one hour and two hours into the worksho
 
 - [Reactive programming](https://rstudio-education.github.io/advanced-shiny-az/03-react-prog/03-react-prog.pdf)
 - [Modules](https://rstudio-education.github.io/advanced-shiny-az/04-modules/04-modules.pdf)
-- Troubleshooting
+- [Troubleshooting](https://rstudio-education.github.io/advanced-shiny-az/05-troubleshooting/05-troubleshooting.pdf)
